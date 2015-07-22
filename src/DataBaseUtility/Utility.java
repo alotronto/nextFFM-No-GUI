@@ -20,10 +20,10 @@ public class Utility {
 	//-------
 	
 	// ----Parametri di connessione db----------
-	private static String host = "localhost";
-	private static String db = "andrea";
-	private static String user = "andrea";
-	private static String pass = "lotront0";
+	private static String host = "";
+	private static String db = "";
+	private static String user = "";
+	private static String pass = "";
 	//-------------------------------------------
 	
 	public static void setHost(String value){
